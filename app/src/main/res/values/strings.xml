@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">PlacesToVisit</string>
+<string name = "content1">
+     There are several compelling reasons to visit the Eiffel Tower in Paris:\n
+
+1. Iconic Symbol\n
+2. Historical Significance\n
+3. Impressive Views\n
+4. Scientific Contributions\n
+5. Size and Scale\n
+
+</string>
+    <string name = "content2">
+      There are several compelling reasons to visit Bari, a captivating city on the Adriatic coast of Italy:\n
+
+1. Breathtaking Coastal Beauty\n
+2. Mouthwatering Cuisine\n
+3. Lively Street Markets\n
+4. Fantastic Nightlife\n
+5. Ideal for Families\n
+6. Hidden Gems\n
+    </string>
+
+    <string name="content3">
+        Here are some compelling reasons to visit:\n
+
+1. Epic Landscape\n
+2. Accessible Trails\n
+3. Year-Round Beauty\n
+4. Historic Charm\n
+5. Car-Free Exploration\n
+    </string>
+    <string name = "content4">
+     There are numerous compelling reasons to visit Kyoto, the ancient capital of Japan.\n
+
+1. UNESCO World Heritage Site\n
+2. Cherry Blossoms (Hanami)\n
+3. Centuries-Old Festivals\n
+4. Kimono Experience\n
+5. Traditional Ryokan Inns\n
+6. Fushimi Inari Shrine\n
+7. Amazing Vegan Eats\n
+8. Geisha Encounters\n
+    </string>
+
+    <string name="content5">
+     There are compelling reasons why you should visit Machu Picchu, the awe-inspiring mountaintop sanctuary in Peru:\n
+
+1. Architectural Marvel\n
+2. Breathtaking Views\n
+3. Historical Mystery\n
+4. Endangered Beauty\n
+5. Rich History\n
+    </string>
+
+    <string name="mycontent1">
+The Lotus Temple, also known as the Bahai House of Worship, is a captivating attraction in Delhi, India. \n
+
+1. Unique Architecture\n
+2. Spiritual Significance\n
+3. Open to All\n
+4. Symbol of Unity\n
+    </string>
+
+    <string name="mycontent2">
+
+  Here are compelling reasons why you should consider visiting this architectural marvel:\n
+
+1. Symbol of Eternal Love\n
+2. Mughal Architecture\n
+3. Photographic Beauty\n
+4. Intricate Details\n
+5. Historical Significance\n
+    </string>
+
+    <string name="mycontent3">
+The Akshardham Temple in Delhi is a must-visit attraction for several compelling reasons:\n
+
+1. Architectural Splendor\n
+2. Spiritual Oasis\n
+3. Cultural Heritage\n
+    </string>
+<string name = "mycontent4">
+    Prem Mandir consider visiting place and compelling people for several reasons:\n
+1. Symbol of Devotion\n
+2. Elaborate Evening Light Shows\n
+</string>
+
+    <string name = "mycontent5">
+        India Gate, formerly known as the All India War Memoriam. Here’s why you should visit this iconic monument:\n
+
+1. War Memorial\n
+2. Architectural Splendor\n
+3. Amar Jawan Jyoti\n
+4. Republic Day Tradition\n
+5. Civil Society Protests\n
+    </string>
+</resources>

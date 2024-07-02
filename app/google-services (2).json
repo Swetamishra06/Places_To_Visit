@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852524468520",
+    "project_id": "third-project-e63f9",
+    "storage_bucket": "third-project-e63f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852524468520:android:3bb1af0b84b56a8746681d",
+        "android_client_info": {
+          "package_name": "com.example.placestovisit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6J9-yYGFFmwCSYE7DfAK-gGU6YWeMLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
